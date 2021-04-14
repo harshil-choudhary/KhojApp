@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "androidStatusBar": {
+      "hidden": false,
+      "translucent": true,
+      "barStyle": "dark-content",
+      "backgroundColor": "#fff"
+    },
+    "name": "KHOJ",
+    "slug": "KHOJ",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "app.khoj.com"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.khoj.com"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "KHOJ",
+  "name": "khoj"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#0B0B0B</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#33cc33</color>
+    <color name="colorAccent3">#FFD740</color>
+    <color name="colorAccent2">#0099cc</color>
+    <color name="colorAccent1">#006699</color>
+
+    <color name="text1">#263238</color>
+    <color name="text2">#455a64</color>
+    <color name="subtext1">#78909c</color>
+    <color name="subtext2">#b0bec5</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite1">#46FFFFFF</color>
+    <color name="colorTrans1">#BC555454</color>
+    <color name="colorTextBlck6">#666666</color>
+    <color name="colorTextBlck3">#333333</color>
+    <color name="colorTextBlck1">#0B0B0B</color>
+
+    <color name="colorSkyBlue">#0099cc</color>
+    <color name="colorBtnSkyBlue">#0099cc</color>
+    <color name="colorFb">#3B5998</color>
+    <color name="colorFb1">#1C83B9</color>
+    <color name="colorTextOrange">#FF6600</color>
+    <color name="colorOrange">#cc6600</color>
+    <color name="colorGreen">#33cc33</color>
+
+    <color name="bgBottomNavigation">#fe485a</color>
+
+    <!-- overrides default color for TextInputLayout -->
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#0099cc</color>
+
+</resources>

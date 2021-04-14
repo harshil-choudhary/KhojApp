@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Khoj App</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="show_password">Show password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="passwordConfirm">Password Confirm</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_fill_in_this_form_to_create_an_account">Please fill in this form to create an account</string>
+    <string name="first_name">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="and"> <![CDATA[&]]> </string>
+    <string name="term_of_use">Term of Use </string>
+    <string name="watch_videos_offline">Watch Videos offline</string>
+    <string name="downloads">Downloads</string>
+    <string name="download">Download</string>
+    <string name="save_to_watch_later">Save to watch later</string>
+    <string name="myAccount">My Account</string>
+    <string name="show">Shows</string>
+    <string name="movies">Movies</string>
+    <string name="televisions">Televisions</string>
+    <string name="favorites">Favorites</string>
+    <string name="channels">Channels</string>
+    <string name="language">Language</string>
+    <string name="genres">Genres</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="trending">Trending</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="verify_phone_number">Verify Phone Number</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="by_continuing_you_agree_to_khoj">By continuing, you agree to KHOJ T<![CDATA[&]]>C and privacy policy </string>
+    <string name="canceled">Canceled</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="verify">Verify</string>
+    <string name="browse">Browse</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="more">More</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="email_i_d_phone_no">Email I\'D/Phone no.</string>
+    <string name="please_enter_your">Please enter your phone number or email address to search for account</string>
+    <string name="done">Done</string>
+    <string name="title">Title</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="share">Share</string>
+    <string name="cast">Cast</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="synopsis_descrip">description</string>
+    <string name="read_more">...Read More</string>
+    <string name="review">Review</string>
+    <string name="review_descrip">review d</string>
+    <string name="critic_review">Critic Review</string>
+    <string name="critic_review_descrip">critic_review_descrip</string>
+    <string name="user_review">User Review</string>
+    <string name="user_name">User Name</string>
+    <string name="membership">Membership</string>
+    <string name="get_more_with_khoj_premium">Get more with Khoj premium</string>
+    <string name="my_phone_no">My Phone No.</string>
+    <string name="my_phone_no1">8802587111</string>
+    <string name="social">Social</string>
+    <string name="invite_your_friend">Invite Your Friend</string>
+    <string name="account_security"><![CDATA[Account & Security]]></string>
+    <string name="logout1">Are you sure, you want to logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout2">Log Out</string>
+    <string name="tv_shows_movies_serials"><![CDATA[TV Shows, Movies & Serials]]></string>
+    <string name="annual">Annual</string>
+    <string name="monthly">Monthly</string>
+
+    <string name="amount_a">Rs.999/.</string>
+    <string name="amount_m">Rs. 299/.</string>
+    <string name="continuee">Continue</string>
+    <string name="enjoy_add_free">Enjoy add free entertainment</string>
+    <string name="watch_your_shows_movies"><![CDATA[Watch your Shows & Movies]]></string>
+    <string name="when_you_are_a_member">When you are a member</string>
+    <string name="cancel_anytime_you_want">Cancel anytime you want</string>
+    <string name="you_won_t_charged_for_next_cycle">You won\'t charged for next cycle</string>
+    <string name="watch_an_any_device">Watch an any device</string>
+    <string name="tv_watch_an_any_device2">watch anytime, anywhere on your mobile, computer or Tv</string>
+    <string name="faqs">FAQs</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="got_questions">Got questions?</string>
+    <string name="email_us_at">Email us at premium@khoj.com. We reply to most email within an hour</string>
+    <string name="popular_movies">Popular Movies</string>
+
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb').
+    https://developers.facebook.com/docs/facebook-login/android
+    https://developers.facebook.com/apps/2352578658388827/dashboard/
+     -->
+    <string name="facebook_app_id" translatable="false">2352578658388827</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb2352578658388827</string>
+    <string name="facebook_application_id" translatable="false">2352578658388827</string>
+
+    <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+         from https://console.developers.google.com/ -->
+    <string name="google_geo_app_id" translatable="false">AIzaSyCrWjWagHW2ZyyC2qCoyVijcxs6J7fsIvw</string>
+    <string name="google_api_key_id" translatable="false">AIzaSyBjUCKKeeNTlRmmLZAI-uz2W3cMeJoUxZY</string>
+    <string name="default_web_client_id_google_service" translatable="false">350135201077-shl0bet7cpm32t4l4nd86b0gfgr5bekg.apps.googleusercontent.com</string>
+    <string name="Client_Secret_id">_wL7Wq0puJd5nboQyazdnbA-</string>
+
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_about_tvshow">AboutTVShowActivity</string>
+    <string name="title_activity_see_all_tvshows">SeeAllTVShowsActivity</string>
+
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="wishList">WishList</string>
+
+    <style name="shared_element_transition_name">SharedElementTransition</style>
+
+</resources>

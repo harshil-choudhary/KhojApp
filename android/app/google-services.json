@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751659858608",
+    "firebase_url": "https://khojapp-backstage.firebaseio.com",
+    "project_id": "khojapp-backstage",
+    "storage_bucket": "khojapp-backstage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751659858608:android:b9e06824ae02b0d37b5975",
+        "android_client_info": {
+          "package_name": "app.khoj.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751659858608-ttcb35u92o5apjmlribe3fi4hfvb1fb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvnRmaF1cgLESPRFNdUurPmv5iEFD6Wbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751659858608-ttcb35u92o5apjmlribe3fi4hfvb1fb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
